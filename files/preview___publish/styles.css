@@ -16,14 +16,21 @@
   position:absolute;
   left:10px;
   top:10px;
+  width:1280px;
+  height:2482px;
+  overflow:hidden;
   visibility:hidden;
 }
 #u1456_state0 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
-  width:1268px;
+  width:1280px;
   height:2482px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u1456_state0_content {
