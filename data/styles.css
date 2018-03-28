@@ -13,6 +13,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -106,4 +108,16 @@
 }
 .image2 {
   color:#000000;
+}
+.button_normal_seconday {
+  font-family:'Tahoma';
+  font-weight:bold;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.button_normal_primary {
+  font-family:'Tahoma';
+  font-weight:bold;
+  font-style:normal;
+  color:#76A9E0;
 }
