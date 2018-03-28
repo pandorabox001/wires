@@ -299,7 +299,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Tahoma Regular', 'Tahoma';
+  font-family:'Tahoma';
   font-weight:400;
   font-style:normal;
 }
@@ -309,7 +309,7 @@
   top:162px;
   width:179px;
   height:22px;
-  font-family:'Tahoma Regular', 'Tahoma';
+  font-family:'Tahoma';
   font-weight:400;
   font-style:normal;
 }
