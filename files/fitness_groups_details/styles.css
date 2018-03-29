@@ -1331,7 +1331,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma';
+  font-family:'Tahoma Bold', 'Tahoma';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1343,7 +1343,7 @@
   top:20px;
   width:138px;
   height:50px;
-  font-family:'Tahoma Bold', 'Tahoma Regular', 'Tahoma';
+  font-family:'Tahoma Bold', 'Tahoma';
   font-weight:700;
   font-style:normal;
   font-size:18px;
